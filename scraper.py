@@ -4,9 +4,6 @@ from datetime import datetime, timezone, timedelta
 
 SCHEDULE_URL = "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026"
 
-GAMESTATUS_FINAL = 3
-
-
 def fetch_json(url):
     req = urllib.request.Request(url, headers={
         "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/120.0 Safari/537.36",
@@ -17,16 +14,38 @@ def fetch_json(url):
         return json.loads(resp.read().decode("utf-8"))
 
 
-def week_bounds():
+def is_played(g):
     """
-    Speelweek = donderdag t/m zaterdag (vaste speeldagen Hoofdklasse).
-    Toont altijd de meest recente speelronde:
-    - Do t/m zo: huidige week (donderdag en zaterdag)
-    - Ma t/m wo: vorige week
+    Een wedstrijd is gespeeld als gamestatustext == "F" (Final),
+    of als gamestatus == 3, of als er een score is.
+    We checken alle drie zodat we nooit iets missen.
+    """
+    if g.get("gamestatustext") == "F":
+        return True
+    if g.get("gamestatus") == 3:
+        return True
+    if g.get("homeruns") is not None and g.get("awayruns") is not None:
+        home = g.get("homeruns", 0)
+        away = g.get("awayruns", 0)
+        if home > 0 or away > 0:
+            return True
+    return False
+
+
+def speelronde_bounds():
+    """
+    Geeft de donderdag en zaterdag van de meest recente speelronde.
+    Speeldagen Hoofdklasse 2026: donderdag (avond) + zaterdag (doubleheader).
+
+    Logica:
+    - Ma t/m wo → vorige week do + za
+    - Do t/m zo → deze week do + za
     """
     now = datetime.now(timezone.utc) + timedelta(hours=2)
     today = now.date()
-    weekday = today.weekday()  # 0=ma, 3=do, 5=za, 6=zo
+    weekday = today.weekday()  # 0=ma … 6=zo
+
+    # Dagen terug tot de meest recente donderdag
     days_since_thursday = (weekday - 3) % 7
     thursday = today - timedelta(days=days_since_thursday)
     saturday = thursday + timedelta(days=2)
@@ -48,7 +67,7 @@ def parse_game(g):
     except ValueError:
         start_dt = None
 
-    played = g.get("gamestatus") == GAMESTATUS_FINAL
+    played = is_played(g)
     innings_count = g.get("innings") or 9
 
     home_innings, away_innings = [], []
@@ -70,6 +89,7 @@ def parse_game(g):
         "thuis_innings": home_innings if played else [],
         "uit_innings":   away_innings if played else [],
         "innings":       innings_count if played else None,
+        "gamestatus":    g.get("gamestatustext", ""),
         "locatie":       g.get("location"),
         "stadion":       g.get("stadium"),
         "gespeeld":      played,
@@ -82,9 +102,9 @@ def main():
     games_raw = data.get("games", [])
     print(f"Wedstrijden ontvangen: {len(games_raw)}")
 
-    thursday, saturday = week_bounds()
+    thursday, saturday = speelronde_bounds()
     today = (datetime.now(timezone.utc) + timedelta(hours=2)).date()
-    print(f"Huidige speelronde: {thursday} (do) t/m {saturday} (za)")
+    print(f"Meest recente speelronde: {thursday} (do) t/m {saturday} (za)")
 
     uitslagen = []
     programma = []
@@ -97,12 +117,23 @@ def main():
 
         if game["gespeeld"] and thursday <= game_date <= saturday:
             uitslagen.append(game)
-        elif not game["gespeeld"] and game_date >= today:
+        elif not game["gespeeld"] and game_date > today:
+            # Programma: alleen toekomstige wedstrijden
             programma.append(game)
 
     uitslagen.sort(key=lambda g: (g["datum"], g["tijdstip"] or ""))
     programma.sort(key=lambda g: (g["datum"], g["tijdstip"] or ""))
     programma = programma[:10]
+
+    # Debug: print wat we gevonden hebben
+    print(f"\nGespeelde wedstrijden in speelronde:")
+    for u in uitslagen:
+        print(f"  {u['datum']} {u['thuis']} {u['score_thuis']}-{u['score_uit']} {u['uit']}")
+
+    if not uitslagen:
+        print("  ⚠️  Geen uitslagen gevonden — controleer gamestatus waarden:")
+        for g in games_raw[:5]:
+            print(f"  id={g.get('id')} status={g.get('gamestatus')} statustext={g.get('gamestatustext')} start={g.get('start')} homeruns={g.get('homeruns')}")
 
     output = {
         "bijgewerkt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -118,9 +149,9 @@ def main():
     with open("schedule.json", "w", encoding="utf-8") as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
-    print(f"✅ schedule.json opgeslagen")
-    print(f"   Uitslagen deze week : {len(uitslagen)}")
-    print(f"   Aankomende wedstrijden: {len(programma)}")
+    print(f"\n✅ schedule.json opgeslagen")
+    print(f"   Uitslagen deze speelronde : {len(uitslagen)}")
+    print(f"   Aankomende wedstrijden    : {len(programma)}")
 
 
 if __name__ == "__main__":
