@@ -2,7 +2,9 @@ name: Hoofdklasse Schedule Scraper
 
 on:
   schedule:
-    - cron: '0 * * * *'   # elk uur
+    - cron: '0 * * * *'    # elk uur
+    - cron: '0 22 * * 4'   # donderdagavond 23:00 NL (na avondwedstrijden)
+    - cron: '0 22 * * 6'   # zaterdagavond 23:00 NL (na doubleheaders)
   workflow_dispatch:
 
 permissions:
