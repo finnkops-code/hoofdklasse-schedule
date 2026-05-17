@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-17T10:30:31Z",
+  "bijgewerkt": "2026-05-17T11:57:29Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-14",
@@ -40,7 +40,7 @@
         1
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
