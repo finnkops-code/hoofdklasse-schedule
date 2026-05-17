@@ -18,12 +18,19 @@ def fetch_json(url):
 
 
 def week_bounds():
-    """Maandag t/m zondag van de huidige week (Amsterdam tijd)."""
+    """
+    Speelweek = donderdag t/m zaterdag (vaste speeldagen Hoofdklasse).
+    Toont altijd de meest recente speelronde:
+    - Do t/m zo: huidige week (donderdag en zaterdag)
+    - Ma t/m wo: vorige week
+    """
     now = datetime.now(timezone.utc) + timedelta(hours=2)
     today = now.date()
-    monday = today - timedelta(days=today.weekday())
-    sunday = monday + timedelta(days=6)
-    return monday, sunday
+    weekday = today.weekday()  # 0=ma, 3=do, 5=za, 6=zo
+    days_since_thursday = (weekday - 3) % 7
+    thursday = today - timedelta(days=days_since_thursday)
+    saturday = thursday + timedelta(days=2)
+    return thursday, saturday
 
 
 def format_dutch_day(dt):
@@ -55,7 +62,9 @@ def parse_game(g):
         "tijdstip":      start_dt.strftime("%H:%M") if start_dt else None,
         "dag":           format_dutch_day(start_dt) if start_dt else None,
         "thuis":         g.get("homelabel"),
+        "thuis_code":    g.get("homeioc"),
         "uit":           g.get("awaylabel"),
+        "uit_code":      g.get("awayioc"),
         "score_thuis":   g.get("homeruns") if played else None,
         "score_uit":     g.get("awayruns") if played else None,
         "thuis_innings": home_innings if played else [],
@@ -73,9 +82,9 @@ def main():
     games_raw = data.get("games", [])
     print(f"Wedstrijden ontvangen: {len(games_raw)}")
 
-    monday, sunday = week_bounds()
+    thursday, saturday = week_bounds()
     today = (datetime.now(timezone.utc) + timedelta(hours=2)).date()
-    print(f"Huidige week: {monday} t/m {sunday}")
+    print(f"Huidige speelronde: {thursday} (do) t/m {saturday} (za)")
 
     uitslagen = []
     programma = []
@@ -86,7 +95,7 @@ def main():
             continue
         game_date = datetime.strptime(game["datum"], "%Y-%m-%d").date()
 
-        if game["gespeeld"] and monday <= game_date <= sunday:
+        if game["gespeeld"] and thursday <= game_date <= saturday:
             uitslagen.append(game)
         elif not game["gespeeld"] and game_date >= today:
             programma.append(game)
@@ -98,7 +107,10 @@ def main():
     output = {
         "bijgewerkt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "bron": SCHEDULE_URL,
-        "week": {"van": str(monday), "tot": str(sunday)},
+        "speelronde": {
+            "van": str(thursday),
+            "tot": str(saturday),
+        },
         "uitslagen": uitslagen,
         "programma": programma,
     }
