@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-19T11:56:59Z",
+  "bijgewerkt": "2026-05-19T15:18:54Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-14",
@@ -476,22 +476,22 @@
       "gespeeld": false
     },
     {
-      "id": 197487,
-      "datum": "2026-06-04",
+      "id": 201487,
+      "datum": "2026-06-02",
       "tijdstip": "19:30",
-      "dag": "donderdag 4 juni",
-      "thuis": "UVV",
-      "thuis_code": "UVV",
-      "uit": "HCAW",
-      "uit_code": "HCA",
+      "dag": "dinsdag 2 juni",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
       "score_thuis": null,
       "score_uit": null,
       "thuis_innings": [],
       "uit_innings": [],
       "innings": null,
       "gamestatus": "",
-      "locatie": "Utrecht",
-      "stadion": "Sportpark de Paperclip",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": false
     }
   ]
