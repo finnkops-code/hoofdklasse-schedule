@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-28T10:51:12Z",
+  "bijgewerkt": "2026-05-28T14:34:06Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-28",
@@ -67,7 +67,7 @@
     {
       "id": 197482,
       "datum": "2026-05-30",
-      "tijdstip": "14:30",
+      "tijdstip": "14:45",
       "dag": "zaterdag 30 mei",
       "thuis": "Amsterdam Pirates",
       "thuis_code": "AMS",
@@ -86,7 +86,7 @@
     {
       "id": 197484,
       "datum": "2026-05-30",
-      "tijdstip": "14:30",
+      "tijdstip": "14:45",
       "dag": "zaterdag 30 mei",
       "thuis": "Oosterhout Twins",
       "thuis_code": "TWI",
@@ -105,7 +105,7 @@
     {
       "id": 197486,
       "datum": "2026-05-30",
-      "tijdstip": "14:30",
+      "tijdstip": "14:45",
       "dag": "zaterdag 30 mei",
       "thuis": "HCAW",
       "thuis_code": "HCA",
