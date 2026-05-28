@@ -1,11 +1,129 @@
 {
-  "bijgewerkt": "2026-05-28T14:34:06Z",
+  "bijgewerkt": "2026-05-28T17:59:47Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-28",
     "tot": "2026-05-30"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197451,
+      "datum": "2026-05-28",
+      "tijdstip": "19:30",
+      "dag": "donderdag 28 mei",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Amsterdam Pirates",
+      "uit_code": "AMS",
+      "score_thuis": 1,
+      "score_uit": 0,
+      "thuis_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B2",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197452,
+      "datum": "2026-05-28",
+      "tijdstip": "19:30",
+      "dag": "donderdag 28 mei",
+      "thuis": "UVV",
+      "thuis_code": "UVV",
+      "uit": "Oosterhout Twins",
+      "uit_code": "TWI",
+      "score_thuis": 0,
+      "score_uit": 2,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B2",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
+      "gespeeld": true
+    },
+    {
+      "id": 197453,
+      "datum": "2026-05-28",
+      "tijdstip": "19:30",
+      "dag": "donderdag 28 mei",
+      "thuis": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "thuis_code": "PIO",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 0,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T2",
+      "locatie": "Hoofddorp",
+      "stadion": "Sportpark Pioniers",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197454,
