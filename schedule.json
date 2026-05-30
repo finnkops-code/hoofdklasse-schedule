@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T19:25:28Z",
+  "bijgewerkt": "2026-05-30T20:49:29Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-28",
@@ -291,7 +291,7 @@
         0
       ],
       "innings": 7,
-      "gamestatus": "F/7",
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
