@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-05-30T09:12:01Z",
+  "bijgewerkt": "2026-05-30T11:15:44Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-05-28",
@@ -119,6 +119,84 @@
       "gamestatus": "F/9",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
+      "gespeeld": true
+    },
+    {
+      "id": 197475,
+      "datum": "2026-05-30",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 30 mei",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 6,
+      "score_uit": 0,
+      "thuis_innings": [
+        2,
+        0,
+        4,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T5",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    },
+    {
+      "id": 197477,
+      "datum": "2026-05-30",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 30 mei",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 2,
+      "score_uit": 3,
+      "thuis_innings": [
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        2,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T5",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
     }
   ],
