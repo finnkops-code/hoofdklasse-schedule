@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-04T02:59:35Z",
+  "bijgewerkt": "2026-06-04T07:56:12Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -122,6 +122,25 @@
       "gespeeld": false
     },
     {
+      "id": 202286,
+      "datum": "2026-06-09",
+      "tijdstip": "19:30",
+      "dag": "dinsdag 9 juni",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": null,
+      "score_uit": null,
+      "thuis_innings": [],
+      "uit_innings": [],
+      "innings": null,
+      "gamestatus": "",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": false
+    },
+    {
       "id": 197499,
       "datum": "2026-06-11",
       "tijdstip": "19:30",
@@ -176,25 +195,6 @@
       "gamestatus": "",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
-      "gespeeld": false
-    },
-    {
-      "id": 197502,
-      "datum": "2026-06-13",
-      "tijdstip": "12:00",
-      "dag": "zaterdag 13 juni",
-      "thuis": "UVV",
-      "thuis_code": "UVV",
-      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
-      "uit_code": "PIO",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Utrecht",
-      "stadion": "Sportpark de Paperclip",
       "gespeeld": false
     }
   ]
