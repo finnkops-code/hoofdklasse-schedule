@@ -1,11 +1,129 @@
 {
-  "bijgewerkt": "2026-06-04T17:40:06Z",
+  "bijgewerkt": "2026-06-04T19:57:20Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
     "tot": "2026-06-06"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197487,
+      "datum": "2026-06-04",
+      "tijdstip": "19:30",
+      "dag": "donderdag 4 juni",
+      "thuis": "UVV",
+      "thuis_code": "UVV",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 3,
+      "score_uit": 8,
+      "thuis_innings": [
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        3,
+        0,
+        1,
+        1,
+        0,
+        3,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B8",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
+      "gespeeld": true
+    },
+    {
+      "id": 197489,
+      "datum": "2026-06-04",
+      "tijdstip": "19:30",
+      "dag": "donderdag 4 juni",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Oosterhout Twins",
+      "uit_code": "TWI",
+      "score_thuis": 9,
+      "score_uit": 1,
+      "thuis_innings": [
+        3,
+        3,
+        0,
+        0,
+        1,
+        1,
+        1,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T8",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197490,
+      "datum": "2026-06-04",
+      "tijdstip": "19:30",
+      "dag": "donderdag 4 juni",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Amsterdam Pirates",
+      "uit_code": "AMS",
+      "score_thuis": 2,
+      "score_uit": 5,
+      "thuis_innings": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        3,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B7",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197492,
