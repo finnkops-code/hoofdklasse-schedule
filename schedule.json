@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T11:19:56Z",
+  "bijgewerkt": "2026-06-06T13:17:50Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -130,16 +130,16 @@
       "thuis_code": "HCA",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 1,
-      "score_uit": 5,
+      "score_thuis": 5,
+      "score_uit": 7,
       "thuis_innings": [
         0,
         0,
         1,
         0,
+        3,
         0,
-        0,
-        0,
+        1,
         0,
         0
       ],
@@ -155,7 +155,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B4",
+      "gamestatus": "B10",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
@@ -169,7 +169,7 @@
       "thuis_code": "TWI",
       "uit": "Curaçao Neptunus",
       "uit_code": "NEP",
-      "score_thuis": 1,
+      "score_thuis": 2,
       "score_uit": 5,
       "thuis_innings": [
         0,
@@ -177,9 +177,7 @@
         0,
         1,
         0,
-        0,
-        0,
-        0,
+        1,
         0
       ],
       "uit_innings": [
@@ -189,12 +187,10 @@
         2,
         0,
         0,
-        0,
-        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "T5",
+      "innings": 7,
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
@@ -208,10 +204,45 @@
       "thuis_code": "AMS",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 2,
-      "score_uit": 1,
+      "score_thuis": 3,
+      "score_uit": 2,
       "thuis_innings": [
         2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "uit_innings": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "innings": 7,
+      "gamestatus": "F/7",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    },
+    {
+      "id": 197497,
+      "datum": "2026-06-06",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 6 juni",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 0,
+      "score_uit": 8,
+      "thuis_innings": [
+        0,
         0,
         0,
         0,
@@ -222,8 +253,8 @@
         0
       ],
       "uit_innings": [
+        8,
         0,
-        1,
         0,
         0,
         0,
@@ -233,9 +264,9 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T5",
-      "locatie": "Amsterdam",
-      "stadion": "Loek Loevendie Ballpark",
+      "gamestatus": "T1",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
     }
   ],
