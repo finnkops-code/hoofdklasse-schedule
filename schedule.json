@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T15:09:05Z",
+  "bijgewerkt": "2026-06-06T17:04:04Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -116,7 +116,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -241,17 +241,15 @@
       "thuis_code": "HCA",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 2,
+      "score_thuis": 9,
       "score_uit": 5,
       "thuis_innings": [
         0,
         1,
         0,
-        1,
+        2,
         0,
-        0,
-        0,
-        0,
+        6,
         0
       ],
       "uit_innings": [
@@ -261,12 +259,10 @@
         2,
         0,
         0,
-        0,
-        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "B4",
+      "innings": 7,
+      "gamestatus": "F",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
@@ -311,7 +307,7 @@
       "thuis_code": "AMS",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 2,
+      "score_thuis": 3,
       "score_uit": 0,
       "thuis_innings": [
         0,
@@ -320,7 +316,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0,
         0
       ],
@@ -336,7 +332,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B7",
+      "gamestatus": "F/9",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
