@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-06T13:17:50Z",
+  "bijgewerkt": "2026-06-06T15:09:05Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -130,7 +130,7 @@
       "thuis_code": "HCA",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 5,
+      "score_thuis": 8,
       "score_uit": 7,
       "thuis_innings": [
         0,
@@ -141,7 +141,8 @@
         0,
         1,
         0,
-        0
+        0,
+        3
       ],
       "uit_innings": [
         2,
@@ -152,10 +153,11 @@
         0,
         0,
         0,
-        0
+        0,
+        2
       ],
-      "innings": 9,
-      "gamestatus": "B10",
+      "innings": 10,
+      "gamestatus": "F/10",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
@@ -231,6 +233,45 @@
       "gespeeld": true
     },
     {
+      "id": 197496,
+      "datum": "2026-06-06",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 6 juni",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 2,
+      "score_uit": 5,
+      "thuis_innings": [
+        0,
+        1,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        3,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B4",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
+      "gespeeld": true
+    },
+    {
       "id": 197497,
       "datum": "2026-06-06",
       "tijdstip": "14:45",
@@ -240,12 +281,8 @@
       "uit": "Curaçao Neptunus",
       "uit_code": "NEP",
       "score_thuis": 0,
-      "score_uit": 8,
+      "score_uit": 15,
       "thuis_innings": [
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -254,6 +291,41 @@
       ],
       "uit_innings": [
         8,
+        3,
+        4,
+        0,
+        0
+      ],
+      "innings": 5,
+      "gamestatus": "F",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    },
+    {
+      "id": 197498,
+      "datum": "2026-06-06",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 6 juni",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Kinheim",
+      "uit_code": "KIN",
+      "score_thuis": 2,
+      "score_uit": 0,
+      "thuis_innings": [
+        0,
+        1,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
         0,
         0,
         0,
@@ -264,9 +336,9 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T1",
-      "locatie": "Oosterhout",
-      "stadion": "Sportpark De Slotbosse Toren",
+      "gamestatus": "B7",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
     }
   ],
