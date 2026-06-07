@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-07T11:04:02Z",
+  "bijgewerkt": "2026-06-07T13:28:11Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -157,7 +157,7 @@
         2
       ],
       "innings": 10,
-      "gamestatus": "F/10",
+      "gamestatus": "F",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
