@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-08T20:05:59Z",
+  "bijgewerkt": "2026-06-08T22:21:43Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-04",
@@ -340,25 +340,6 @@
   ],
   "programma": [
     {
-      "id": 202286,
-      "datum": "2026-06-09",
-      "tijdstip": "19:30",
-      "dag": "dinsdag 9 juni",
-      "thuis": "Oosterhout Twins",
-      "thuis_code": "TWI",
-      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
-      "uit_code": "PIO",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Oosterhout",
-      "stadion": "Sportpark De Slotbosse Toren",
-      "gespeeld": false
-    },
-    {
       "id": 197499,
       "datum": "2026-06-11",
       "tijdstip": "19:30",
@@ -527,6 +508,25 @@
       "gamestatus": "",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
+      "gespeeld": false
+    },
+    {
+      "id": 197508,
+      "datum": "2026-06-18",
+      "tijdstip": "19:30",
+      "dag": "donderdag 18 juni",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": null,
+      "score_uit": null,
+      "thuis_innings": [],
+      "uit_innings": [],
+      "innings": null,
+      "gamestatus": "",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
       "gespeeld": false
     }
   ]
