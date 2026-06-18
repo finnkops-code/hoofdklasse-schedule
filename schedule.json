@@ -1,11 +1,129 @@
 {
-  "bijgewerkt": "2026-06-18T17:18:54Z",
+  "bijgewerkt": "2026-06-18T20:15:46Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-18",
     "tot": "2026-06-20"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197508,
+      "datum": "2026-06-18",
+      "tijdstip": "19:30",
+      "dag": "donderdag 18 juni",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 9,
+      "score_uit": 2,
+      "thuis_innings": [
+        2,
+        0,
+        3,
+        1,
+        1,
+        0,
+        2,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T8",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197509,
+      "datum": "2026-06-18",
+      "tijdstip": "19:30",
+      "dag": "donderdag 18 juni",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 9,
+      "score_uit": 4,
+      "thuis_innings": [
+        0,
+        0,
+        4,
+        0,
+        5,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        4,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T8",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197510,
+      "datum": "2026-06-18",
+      "tijdstip": "19:30",
+      "dag": "donderdag 18 juni",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Oosterhout Twins",
+      "uit_code": "TWI",
+      "score_thuis": 8,
+      "score_uit": 2,
+      "thuis_innings": [
+        2,
+        0,
+        0,
+        3,
+        3,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T9",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197511,
