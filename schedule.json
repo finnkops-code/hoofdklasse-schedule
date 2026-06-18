@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-18T20:15:46Z",
+  "bijgewerkt": "2026-06-18T22:53:29Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-18",
@@ -15,7 +15,7 @@
       "thuis_code": "NEP",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 9,
+      "score_thuis": 11,
       "score_uit": 2,
       "thuis_innings": [
         2,
@@ -25,7 +25,7 @@
         1,
         0,
         2,
-        0,
+        2,
         0
       ],
       "uit_innings": [
@@ -40,7 +40,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T8",
+      "gamestatus": "F/9",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -55,14 +55,13 @@
       "uit": "HCAW",
       "uit_code": "HCA",
       "score_thuis": 9,
-      "score_uit": 4,
+      "score_uit": 7,
       "thuis_innings": [
         0,
         0,
         4,
         0,
         5,
-        0,
         0,
         0,
         0
@@ -75,11 +74,10 @@
         0,
         0,
         0,
-        4,
-        0
+        7
       ],
-      "innings": 9,
-      "gamestatus": "T8",
+      "innings": 8,
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -118,7 +116,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T9",
+      "gamestatus": "F/9",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
