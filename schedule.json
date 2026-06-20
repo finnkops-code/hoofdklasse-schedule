@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-20T15:41:57Z",
+  "bijgewerkt": "2026-06-20T17:19:39Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-18",
@@ -270,8 +270,8 @@
       "thuis_code": "HCA",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 4,
-      "score_uit": 4,
+      "score_thuis": 6,
+      "score_uit": 7,
       "thuis_innings": [
         0,
         1,
@@ -281,7 +281,9 @@
         1,
         0,
         0,
-        0
+        0,
+        0,
+        2
       ],
       "uit_innings": [
         0,
@@ -292,10 +294,12 @@
         0,
         0,
         0,
-        2
+        2,
+        0,
+        3
       ],
-      "innings": 9,
-      "gamestatus": "B9",
+      "innings": 11,
+      "gamestatus": "F",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
