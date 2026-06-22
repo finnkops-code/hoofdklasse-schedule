@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-06-22T09:42:12Z",
+  "bijgewerkt": "2026-06-22T15:17:28Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-06-18",
@@ -151,7 +151,7 @@
         4
       ],
       "innings": 7,
-      "gamestatus": "F/7",
+      "gamestatus": "F",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
