@@ -1,9 +1,9 @@
 {
-  "bijgewerkt": "2026-07-08T20:59:47Z",
+  "bijgewerkt": "2026-07-08T22:12:39Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
-    "van": "2026-07-02",
-    "tot": "2026-07-04"
+    "van": "2026-07-09",
+    "tot": "2026-07-11"
   },
   "uitslagen": [],
   "programma": [
