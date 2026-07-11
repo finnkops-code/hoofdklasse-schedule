@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-11T15:48:09Z",
+  "bijgewerkt": "2026-07-11T16:47:57Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-09",
@@ -106,7 +106,7 @@
         0
       ],
       "innings": 7,
-      "gamestatus": "F/7",
+      "gamestatus": "F",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -120,8 +120,8 @@
       "thuis_code": "AMS",
       "uit": "HCAW",
       "uit_code": "HCA",
-      "score_thuis": 9,
-      "score_uit": 4,
+      "score_thuis": 11,
+      "score_uit": 9,
       "thuis_innings": [
         2,
         0,
@@ -130,7 +130,7 @@
         2,
         3,
         1,
-        0,
+        2,
         0
       ],
       "uit_innings": [
@@ -141,11 +141,11 @@
         2,
         0,
         0,
-        0,
+        5,
         0
       ],
       "innings": 9,
-      "gamestatus": "B7",
+      "gamestatus": "F",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
