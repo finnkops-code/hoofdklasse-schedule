@@ -1,11 +1,90 @@
 {
-  "bijgewerkt": "2026-07-11T09:21:04Z",
+  "bijgewerkt": "2026-07-11T10:57:52Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-09",
     "tot": "2026-07-11"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197520,
+      "datum": "2026-07-11",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 11 juli",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 3,
+      "score_uit": 3,
+      "thuis_innings": [
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B3",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197522,
+      "datum": "2026-07-11",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 11 juli",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 2,
+      "score_uit": 2,
+      "thuis_innings": [
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T3",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197517,
