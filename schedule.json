@@ -1,11 +1,90 @@
 {
-  "bijgewerkt": "2026-07-16T16:12:16Z",
+  "bijgewerkt": "2026-07-16T18:00:01Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
     "tot": "2026-07-18"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197915,
+      "datum": "2026-07-16",
+      "tijdstip": "19:30",
+      "dag": "donderdag 16 juli",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 2,
+      "score_uit": 0,
+      "thuis_innings": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T2",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    },
+    {
+      "id": 197916,
+      "datum": "2026-07-16",
+      "tijdstip": "19:30",
+      "dag": "donderdag 16 juli",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 0,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B2",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197917,
