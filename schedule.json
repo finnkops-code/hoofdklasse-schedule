@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-16T19:22:32Z",
+  "bijgewerkt": "2026-07-16T20:50:54Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -15,15 +15,15 @@
       "thuis_code": "KIN",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 3,
-      "score_uit": 0,
+      "score_thuis": 4,
+      "score_uit": 1,
       "thuis_innings": [
         0,
         2,
         0,
         0,
         0,
-        1,
+        2,
         0,
         0,
         0
@@ -36,11 +36,11 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "innings": 9,
-      "gamestatus": "B6",
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -54,7 +54,7 @@
       "thuis_code": "AMS",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 6,
+      "score_thuis": 10,
       "score_uit": 0,
       "thuis_innings": [
         2,
@@ -62,10 +62,8 @@
         2,
         0,
         1,
-        1,
-        0,
-        0,
-        0
+        2,
+        3
       ],
       "uit_innings": [
         0,
@@ -74,12 +72,10 @@
         0,
         0,
         0,
-        0,
-        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "B6",
+      "innings": 7,
+      "gamestatus": "F",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
@@ -118,7 +114,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T7",
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
