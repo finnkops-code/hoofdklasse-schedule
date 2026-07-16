@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-16T18:00:01Z",
+  "bijgewerkt": "2026-07-16T19:22:32Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -7,23 +7,23 @@
   },
   "uitslagen": [
     {
-      "id": 197915,
+      "id": 197914,
       "datum": "2026-07-16",
       "tijdstip": "19:30",
       "dag": "donderdag 16 juli",
-      "thuis": "Amsterdam Pirates",
-      "thuis_code": "AMS",
-      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
-      "uit_code": "PIO",
-      "score_thuis": 2,
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 3,
       "score_uit": 0,
       "thuis_innings": [
+        0,
         2,
         0,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0
@@ -40,7 +40,46 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T2",
+      "gamestatus": "B6",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197915,
+      "datum": "2026-07-16",
+      "tijdstip": "19:30",
+      "dag": "donderdag 16 juli",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 6,
+      "score_uit": 0,
+      "thuis_innings": [
+        2,
+        0,
+        2,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B6",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
@@ -54,14 +93,14 @@
       "thuis_code": "TWI",
       "uit": "HCAW",
       "uit_code": "HCA",
-      "score_thuis": 0,
+      "score_thuis": 3,
       "score_uit": 1,
       "thuis_innings": [
         0,
+        2,
         0,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,
@@ -79,7 +118,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B2",
+      "gamestatus": "T7",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
