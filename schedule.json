@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-18T14:21:40Z",
+  "bijgewerkt": "2026-07-18T15:49:17Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -229,13 +229,13 @@
       "thuis_code": "UVV",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 5,
-      "score_uit": 1,
+      "score_thuis": 6,
+      "score_uit": 8,
       "thuis_innings": [
         2,
         3,
         0,
-        0,
+        1,
         0,
         0,
         0,
@@ -245,7 +245,7 @@
       "uit_innings": [
         0,
         0,
-        1,
+        8,
         0,
         0,
         0,
@@ -254,7 +254,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T3",
+      "gamestatus": "T7",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
@@ -268,17 +268,17 @@
       "thuis_code": "PIO",
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
-      "score_thuis": 1,
-      "score_uit": 5,
+      "score_thuis": 7,
+      "score_uit": 7,
       "thuis_innings": [
         1,
         0,
         0,
         0,
+        1,
         0,
         0,
-        0,
-        0,
+        5,
         0
       ],
       "uit_innings": [
@@ -288,12 +288,12 @@
         2,
         0,
         0,
-        0,
+        2,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T5",
+      "gamestatus": "B8",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
@@ -308,7 +308,7 @@
       "uit": "Oosterhout Twins",
       "uit_code": "TWI",
       "score_thuis": 1,
-      "score_uit": 4,
+      "score_uit": 7,
       "thuis_innings": [
         0,
         0,
@@ -326,13 +326,13 @@
         2,
         1,
         0,
+        1,
         0,
-        0,
-        0,
-        0
+        1,
+        1
       ],
       "innings": 9,
-      "gamestatus": "T5",
+      "gamestatus": "F",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
