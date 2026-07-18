@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-18T11:48:40Z",
+  "bijgewerkt": "2026-07-18T12:59:33Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -128,8 +128,8 @@
       "thuis_code": "UVV",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 5,
-      "score_uit": 8,
+      "score_thuis": 6,
+      "score_uit": 11,
       "thuis_innings": [
         0,
         1,
@@ -137,9 +137,7 @@
         0,
         4,
         0,
-        0,
-        0,
-        0
+        1
       ],
       "uit_innings": [
         7,
@@ -147,13 +145,11 @@
         1,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        1,
+        2
       ],
-      "innings": 9,
-      "gamestatus": "B5",
+      "innings": 7,
+      "gamestatus": "F",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
@@ -168,12 +164,8 @@
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
       "score_thuis": 0,
-      "score_uit": 10,
+      "score_uit": 11,
       "thuis_innings": [
-        0,
-        0,
-        0,
-        0,
         0,
         0,
         0,
@@ -185,14 +177,10 @@
         4,
         1,
         0,
-        3,
-        0,
-        0,
-        0,
-        0
+        4
       ],
-      "innings": 9,
-      "gamestatus": "T5",
+      "innings": 5,
+      "gamestatus": "F/5",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
@@ -207,13 +195,11 @@
       "uit": "Oosterhout Twins",
       "uit_code": "TWI",
       "score_thuis": 2,
-      "score_uit": 4,
+      "score_uit": 6,
       "thuis_innings": [
         0,
         0,
         2,
-        0,
-        0,
         0,
         0,
         0,
@@ -226,12 +212,10 @@
         0,
         1,
         0,
-        0,
-        0,
-        0
+        2
       ],
-      "innings": 9,
-      "gamestatus": "B6",
+      "innings": 7,
+      "gamestatus": "F/7",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
