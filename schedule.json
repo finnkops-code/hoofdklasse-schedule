@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-18T15:49:17Z",
+  "bijgewerkt": "2026-07-18T16:49:15Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -230,7 +230,7 @@
       "uit": "Kinheim",
       "uit_code": "KIN",
       "score_thuis": 6,
-      "score_uit": 8,
+      "score_uit": 12,
       "thuis_innings": [
         2,
         3,
@@ -249,12 +249,12 @@
         0,
         0,
         0,
-        0,
-        0,
-        0
+        1,
+        1,
+        2
       ],
       "innings": 9,
-      "gamestatus": "T7",
+      "gamestatus": "B9",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
@@ -269,7 +269,7 @@
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
       "score_thuis": 7,
-      "score_uit": 7,
+      "score_uit": 11,
       "thuis_innings": [
         1,
         0,
@@ -290,10 +290,10 @@
         0,
         2,
         0,
-        0
+        4
       ],
       "innings": 9,
-      "gamestatus": "B8",
+      "gamestatus": "F",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
