@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-19T02:03:26Z",
+  "bijgewerkt": "2026-07-19T10:21:20Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -254,7 +254,7 @@
         2
       ],
       "innings": 9,
-      "gamestatus": "F",
+      "gamestatus": "F/9",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
