@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-20T21:04:35Z",
+  "bijgewerkt": "2026-07-20T23:51:40Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-16",
@@ -340,25 +340,6 @@
   ],
   "programma": [
     {
-      "id": 204551,
-      "datum": "2026-07-21",
-      "tijdstip": "19:30",
-      "dag": "dinsdag 21 juli",
-      "thuis": "Kinheim",
-      "thuis_code": "KIN",
-      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
-      "uit_code": "PIO",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Haarlem",
-      "stadion": "Pim Mulier Stadion",
-      "gespeeld": false
-    },
-    {
       "id": 197923,
       "datum": "2026-07-23",
       "tijdstip": "19:30",
@@ -527,6 +508,25 @@
       "gamestatus": "",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": false
+    },
+    {
+      "id": 204552,
+      "datum": "2026-07-28",
+      "tijdstip": "19:30",
+      "dag": "dinsdag 28 juli",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": null,
+      "score_uit": null,
+      "thuis_innings": [],
+      "uit_innings": [],
+      "innings": null,
+      "gamestatus": "",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
       "gespeeld": false
     }
   ]
