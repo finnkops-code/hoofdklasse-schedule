@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-23T19:04:13Z",
+  "bijgewerkt": "2026-07-23T20:54:52Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -15,15 +15,15 @@
       "thuis_code": "NEP",
       "uit": "Kinheim",
       "uit_code": "KIN",
-      "score_thuis": 2,
-      "score_uit": 0,
+      "score_thuis": 5,
+      "score_uit": 2,
       "thuis_innings": [
         0,
         0,
         0,
         2,
         0,
-        0,
+        3,
         0,
         0,
         0
@@ -36,11 +36,11 @@
         0,
         0,
         0,
-        0,
-        0
+        1,
+        1
       ],
       "innings": 9,
-      "gamestatus": "T6",
+      "gamestatus": "F",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -55,7 +55,7 @@
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
       "score_thuis": 0,
-      "score_uit": 4,
+      "score_uit": 7,
       "thuis_innings": [
         0,
         0,
@@ -76,10 +76,10 @@
         0,
         0,
         0,
-        0
+        3
       ],
       "innings": 9,
-      "gamestatus": "T7",
+      "gamestatus": "F",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
@@ -94,7 +94,7 @@
       "uit": "Oosterhout Twins",
       "uit_code": "TWI",
       "score_thuis": 0,
-      "score_uit": 5,
+      "score_uit": 9,
       "thuis_innings": [
         0,
         0,
@@ -112,13 +112,13 @@
         0,
         2,
         0,
+        4,
+        0,
         3,
-        0,
-        0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T6",
+      "gamestatus": "F/9",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
