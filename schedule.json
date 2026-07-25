@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-25T13:09:26Z",
+  "bijgewerkt": "2026-07-25T16:02:29Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -235,8 +235,8 @@
       "thuis_code": "KIN",
       "uit": "Curaçao Neptunus",
       "uit_code": "NEP",
-      "score_thuis": 1,
-      "score_uit": 1,
+      "score_thuis": 2,
+      "score_uit": 9,
       "thuis_innings": [
         1,
         0,
@@ -245,22 +245,22 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "uit_innings": [
         1,
+        4,
         0,
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        1,
+        1,
+        2
       ],
       "innings": 9,
-      "gamestatus": "T2",
+      "gamestatus": "T9",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -274,15 +274,15 @@
       "thuis_code": "AMS",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 0,
+      "score_thuis": 8,
       "score_uit": 1,
       "thuis_innings": [
+        2,
+        2,
         0,
-        0,
-        0,
-        0,
-        0,
-        0,
+        1,
+        2,
+        1,
         0,
         0,
         0
@@ -299,7 +299,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B1",
+      "gamestatus": "F/9",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
@@ -313,32 +313,32 @@
       "thuis_code": "TWI",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 2,
-      "score_uit": 0,
+      "score_thuis": 10,
+      "score_uit": 4,
       "thuis_innings": [
         2,
         0,
         0,
         0,
+        2,
         0,
-        0,
-        0,
-        0,
+        4,
+        2,
         0
       ],
       "uit_innings": [
         0,
+        2,
         0,
         0,
         0,
+        1,
         0,
         0,
-        0,
-        0,
-        0
+        1
       ],
       "innings": 9,
-      "gamestatus": "T2",
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
