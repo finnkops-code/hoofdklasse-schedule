@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-25T16:02:29Z",
+  "bijgewerkt": "2026-07-25T17:53:30Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -260,7 +260,7 @@
         2
       ],
       "innings": 9,
-      "gamestatus": "T9",
+      "gamestatus": "F/9",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
