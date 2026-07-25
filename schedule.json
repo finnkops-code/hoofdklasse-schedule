@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-25T11:04:02Z",
+  "bijgewerkt": "2026-07-25T13:09:26Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -141,8 +141,6 @@
         0,
         0,
         0,
-        0,
-        0,
         0
       ],
       "uit_innings": [
@@ -152,12 +150,10 @@
         0,
         0,
         0,
-        0,
-        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "B4",
+      "innings": 7,
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -171,7 +167,7 @@
       "thuis_code": "AMS",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 2,
+      "score_thuis": 10,
       "score_uit": 0,
       "thuis_innings": [
         0,
@@ -179,10 +175,7 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
-        0
+        8
       ],
       "uit_innings": [
         0,
@@ -190,13 +183,10 @@
         0,
         0,
         0,
-        0,
-        0,
-        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "T4",
+      "innings": 6,
+      "gamestatus": "F/6",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
@@ -210,11 +200,124 @@
       "thuis_code": "TWI",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 5,
-      "score_uit": 0,
+      "score_thuis": 8,
+      "score_uit": 4,
       "thuis_innings": [
         4,
         1,
+        0,
+        3,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        4,
+        0,
+        0
+      ],
+      "innings": 7,
+      "gamestatus": "F",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    },
+    {
+      "id": 197929,
+      "datum": "2026-07-25",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 25 juli",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 1,
+      "score_uit": 1,
+      "thuis_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T2",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
+      "gespeeld": true
+    },
+    {
+      "id": 197930,
+      "datum": "2026-07-25",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 25 juli",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 0,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B1",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    },
+    {
+      "id": 197931,
+      "datum": "2026-07-25",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 25 juli",
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 2,
+      "score_uit": 0,
+      "thuis_innings": [
+        2,
+        0,
         0,
         0,
         0,
@@ -235,7 +338,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B4",
+      "gamestatus": "T2",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
