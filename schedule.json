@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-26T11:57:10Z",
+  "bijgewerkt": "2026-07-26T13:19:33Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -299,7 +299,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
