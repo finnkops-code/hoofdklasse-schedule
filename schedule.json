@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-27T21:59:33Z",
+  "bijgewerkt": "2026-07-27T23:08:47Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-23",
@@ -345,25 +345,6 @@
     }
   ],
   "programma": [
-    {
-      "id": 204552,
-      "datum": "2026-07-28",
-      "tijdstip": "19:30",
-      "dag": "dinsdag 28 juli",
-      "thuis": "Kinheim",
-      "thuis_code": "KIN",
-      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
-      "uit_code": "PIO",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Haarlem",
-      "stadion": "Pim Mulier Stadion",
-      "gespeeld": false
-    },
     {
       "id": 197932,
       "datum": "2026-07-30",
