@@ -1,11 +1,90 @@
 {
-  "bijgewerkt": "2026-07-30T17:18:54Z",
+  "bijgewerkt": "2026-07-30T19:14:59Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-30",
     "tot": "2026-08-01"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 197932,
+      "datum": "2026-07-30",
+      "tijdstip": "19:30",
+      "dag": "donderdag 30 juli",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 1,
+      "score_uit": 5,
+      "thuis_innings": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        3,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B6",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    },
+    {
+      "id": 197934,
+      "datum": "2026-07-30",
+      "tijdstip": "19:30",
+      "dag": "donderdag 30 juli",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 3,
+      "score_uit": 8,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        3,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        4,
+        2,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B4",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 197935,
