@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-07-30T19:14:59Z",
+  "bijgewerkt": "2026-07-30T21:00:11Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-30",
@@ -15,8 +15,8 @@
       "thuis_code": "AMS",
       "uit": "Curaçao Neptunus",
       "uit_code": "NEP",
-      "score_thuis": 1,
-      "score_uit": 5,
+      "score_thuis": 2,
+      "score_uit": 6,
       "thuis_innings": [
         0,
         0,
@@ -25,7 +25,7 @@
         0,
         0,
         0,
-        0,
+        1,
         0
       ],
       "uit_innings": [
@@ -36,11 +36,11 @@
         1,
         1,
         0,
-        0,
+        1,
         0
       ],
       "innings": 9,
-      "gamestatus": "B6",
+      "gamestatus": "F",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
@@ -54,7 +54,7 @@
       "thuis_code": "HCA",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 3,
+      "score_thuis": 5,
       "score_uit": 8,
       "thuis_innings": [
         0,
@@ -64,8 +64,8 @@
         0,
         0,
         0,
-        0,
-        0
+        1,
+        1
       ],
       "uit_innings": [
         0,
@@ -79,7 +79,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B4",
+      "gamestatus": "F/9",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
