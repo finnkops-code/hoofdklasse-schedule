@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-01T10:28:46Z",
+  "bijgewerkt": "2026-08-01T11:57:56Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-30",
@@ -85,6 +85,45 @@
       "gespeeld": true
     },
     {
+      "id": 197935,
+      "datum": "2026-08-01",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 1 augustus",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Amsterdam Pirates",
+      "uit_code": "AMS",
+      "score_thuis": 3,
+      "score_uit": 0,
+      "thuis_innings": [
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T7",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
       "id": 197936,
       "datum": "2026-08-01",
       "tijdstip": "12:00",
@@ -93,8 +132,47 @@
       "thuis_code": "UVV",
       "uit": "Oosterhout Twins",
       "uit_code": "TWI",
+      "score_thuis": 1,
+      "score_uit": 4,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        1,
+        0,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B6",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
+      "gespeeld": true
+    },
+    {
+      "id": 197937,
+      "datum": "2026-08-01",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 1 augustus",
+      "thuis": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "thuis_code": "PIO",
+      "uit": "HCAW",
+      "uit_code": "HCA",
       "score_thuis": 0,
-      "score_uit": 1,
+      "score_uit": 6,
       "thuis_innings": [
         0,
         0,
@@ -107,20 +185,20 @@
         0
       ],
       "uit_innings": [
+        0,
+        0,
+        0,
+        2,
         1,
-        0,
-        0,
-        0,
-        0,
-        0,
+        3,
         0,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T2",
-      "locatie": "Utrecht",
-      "stadion": "Sportpark de Paperclip",
+      "gamestatus": "B6",
+      "locatie": "Hoofddorp",
+      "stadion": "Sportpark Pioniers",
       "gespeeld": true
     }
   ],
