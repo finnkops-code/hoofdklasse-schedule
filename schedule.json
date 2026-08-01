@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-01T15:55:46Z",
+  "bijgewerkt": "2026-08-01T16:54:23Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-30",
@@ -223,7 +223,7 @@
         2
       ],
       "innings": 9,
-      "gamestatus": "B9",
+      "gamestatus": "F",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -238,7 +238,7 @@
       "uit": "Oosterhout Twins",
       "uit_code": "TWI",
       "score_thuis": 7,
-      "score_uit": 15,
+      "score_uit": 16,
       "thuis_innings": [
         1,
         3,
@@ -258,11 +258,11 @@
         1,
         5,
         0,
-        0,
+        1,
         0
       ],
       "innings": 9,
-      "gamestatus": "T8",
+      "gamestatus": "F",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
@@ -276,7 +276,7 @@
       "thuis_code": "PIO",
       "uit": "HCAW",
       "uit_code": "HCA",
-      "score_thuis": 6,
+      "score_thuis": 8,
       "score_uit": 4,
       "thuis_innings": [
         0,
@@ -286,7 +286,7 @@
         1,
         1,
         1,
-        0,
+        2,
         0
       ],
       "uit_innings": [
@@ -301,7 +301,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B8",
+      "gamestatus": "F/9",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
