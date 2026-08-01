@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-01T08:09:11Z",
+  "bijgewerkt": "2026-08-01T10:28:46Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-07-30",
@@ -79,9 +79,48 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
+      "gespeeld": true
+    },
+    {
+      "id": 197936,
+      "datum": "2026-08-01",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 1 augustus",
+      "thuis": "UVV",
+      "thuis_code": "UVV",
+      "uit": "Oosterhout Twins",
+      "uit_code": "TWI",
+      "score_thuis": 0,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T2",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
       "gespeeld": true
     }
   ],
