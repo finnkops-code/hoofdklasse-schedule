@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-17T21:19:01Z",
+  "bijgewerkt": "2026-08-17T22:16:55Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-13",
@@ -7,25 +7,6 @@
   },
   "uitslagen": [],
   "programma": [
-    {
-      "id": 206246,
-      "datum": "2026-08-18",
-      "tijdstip": "19:30",
-      "dag": "dinsdag 18 augustus",
-      "thuis": "Oosterhout Twins",
-      "thuis_code": "TWI",
-      "uit": "UVV",
-      "uit_code": "UVV",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Oosterhout",
-      "stadion": "Sportpark De Slotbosse Toren",
-      "gespeeld": false
-    },
     {
       "id": 207081,
       "datum": "2026-08-20",
