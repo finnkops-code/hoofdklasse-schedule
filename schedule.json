@@ -1,11 +1,129 @@
 {
-  "bijgewerkt": "2026-08-20T17:21:50Z",
+  "bijgewerkt": "2026-08-20T18:28:28Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
     "tot": "2026-08-22"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 207081,
+      "datum": "2026-08-20",
+      "tijdstip": "19:30",
+      "dag": "donderdag 20 augustus",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "UVV",
+      "uit_code": "UVV",
+      "score_thuis": 0,
+      "score_uit": 2,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B1",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
+      "gespeeld": true
+    },
+    {
+      "id": 207178,
+      "datum": "2026-08-20",
+      "tijdstip": "19:30",
+      "dag": "donderdag 20 augustus",
+      "thuis": "Curaçao Neptunus",
+      "thuis_code": "NEP",
+      "uit": "Kinheim",
+      "uit_code": "KIN",
+      "score_thuis": 1,
+      "score_uit": 1,
+      "thuis_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T4",
+      "locatie": "Rotterdam",
+      "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 207179,
+      "datum": "2026-08-20",
+      "tijdstip": "19:30",
+      "dag": "donderdag 20 augustus",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Oosterhout Twins",
+      "uit_code": "TWI",
+      "score_thuis": 3,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        1,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B4",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 207082,
