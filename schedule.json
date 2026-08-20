@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-20T18:28:28Z",
+  "bijgewerkt": "2026-08-20T19:25:01Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -40,7 +40,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B1",
+      "gamestatus": "T5",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
@@ -55,7 +55,7 @@
       "uit": "Kinheim",
       "uit_code": "KIN",
       "score_thuis": 1,
-      "score_uit": 1,
+      "score_uit": 4,
       "thuis_innings": [
         1,
         0,
@@ -72,14 +72,14 @@
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        2,
         0,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T4",
+      "gamestatus": "T7",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -118,7 +118,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "B4",
+      "gamestatus": "B6",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
