@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T09:20:05Z",
+  "bijgewerkt": "2026-08-22T10:15:47Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -113,6 +113,45 @@
       "gamestatus": "F",
       "locatie": "Amsterdam",
       "stadion": "Loek Loevendie Ballpark",
+      "gespeeld": true
+    },
+    {
+      "id": 207082,
+      "datum": "2026-08-22",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 22 augustus",
+      "thuis": "UVV",
+      "thuis_code": "UVV",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 0,
+      "score_uit": 2,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B1",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
       "gespeeld": true
     }
   ],
