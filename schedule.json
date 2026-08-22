@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T11:14:16Z",
+  "bijgewerkt": "2026-08-22T12:24:36Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -124,14 +124,14 @@
       "thuis_code": "UVV",
       "uit": "HCAW",
       "uit_code": "HCA",
-      "score_thuis": 6,
-      "score_uit": 2,
+      "score_thuis": 11,
+      "score_uit": 6,
       "thuis_innings": [
         5,
         1,
+        4,
         0,
-        0,
-        0,
+        1,
         0,
         0,
         0,
@@ -142,14 +142,14 @@
         0,
         0,
         0,
+        1,
         0,
-        0,
-        0,
+        3,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "B3",
+      "gamestatus": "T7",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
