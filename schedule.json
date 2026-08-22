@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T12:24:36Z",
+  "bijgewerkt": "2026-08-22T13:25:46Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -125,15 +125,13 @@
       "uit": "HCAW",
       "uit_code": "HCA",
       "score_thuis": 11,
-      "score_uit": 6,
+      "score_uit": 7,
       "thuis_innings": [
         5,
         1,
         4,
         0,
         1,
-        0,
-        0,
         0,
         0
       ],
@@ -144,14 +142,51 @@
         0,
         1,
         0,
-        3,
+        4
+      ],
+      "innings": 7,
+      "gamestatus": "F",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
+      "gespeeld": true
+    },
+    {
+      "id": 207181,
+      "datum": "2026-08-22",
+      "tijdstip": "14:00",
+      "dag": "zaterdag 22 augustus",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 0,
+      "score_uit": 1,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T7",
-      "locatie": "Utrecht",
-      "stadion": "Sportpark de Paperclip",
+      "gamestatus": "B4",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
       "gespeeld": true
     }
   ],
