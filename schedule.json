@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T15:13:27Z",
+  "bijgewerkt": "2026-08-22T16:15:12Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -170,7 +170,8 @@
         0,
         0,
         0,
-        0
+        0,
+        1
       ],
       "uit_innings": [
         0,
@@ -181,10 +182,11 @@
         0,
         0,
         0,
+        0,
         0
       ],
-      "innings": 9,
-      "gamestatus": "B10",
+      "innings": 10,
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
@@ -223,7 +225,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -238,7 +240,7 @@
       "uit": "HCAW",
       "uit_code": "HCA",
       "score_thuis": 3,
-      "score_uit": 5,
+      "score_uit": 6,
       "thuis_innings": [
         2,
         1,
@@ -257,12 +259,12 @@
         0,
         2,
         3,
-        0,
+        1,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "T7",
+      "gamestatus": "F/9",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
