@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-22T14:14:08Z",
+  "bijgewerkt": "2026-08-22T15:13:27Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -151,16 +151,16 @@
       "gespeeld": true
     },
     {
-      "id": 207181,
+      "id": 207180,
       "datum": "2026-08-22",
       "tijdstip": "14:00",
       "dag": "zaterdag 22 augustus",
-      "thuis": "Kinheim",
-      "thuis_code": "KIN",
-      "uit": "Curaçao Neptunus",
-      "uit_code": "NEP",
-      "score_thuis": 0,
-      "score_uit": 2,
+      "thuis": "Oosterhout Twins",
+      "thuis_code": "TWI",
+      "uit": "Amsterdam Pirates",
+      "uit_code": "AMS",
+      "score_thuis": 1,
+      "score_uit": 0,
       "thuis_innings": [
         0,
         0,
@@ -176,6 +176,45 @@
         0,
         0,
         0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "B10",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    },
+    {
+      "id": 207181,
+      "datum": "2026-08-22",
+      "tijdstip": "14:00",
+      "dag": "zaterdag 22 augustus",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 1,
+      "score_uit": 2,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        0,
         1,
         1,
         0,
@@ -184,7 +223,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T7",
+      "gamestatus": "F/9",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -199,7 +238,7 @@
       "uit": "HCAW",
       "uit_code": "HCA",
       "score_thuis": 3,
-      "score_uit": 0,
+      "score_uit": 5,
       "thuis_innings": [
         2,
         1,
@@ -216,14 +255,14 @@
         0,
         0,
         0,
-        0,
-        0,
+        2,
+        3,
         0,
         0,
         0
       ],
       "innings": 9,
-      "gamestatus": "B4",
+      "gamestatus": "T7",
       "locatie": "Utrecht",
       "stadion": "Sportpark de Paperclip",
       "gespeeld": true
