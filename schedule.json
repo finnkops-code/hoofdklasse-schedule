@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-25T10:23:53Z",
+  "bijgewerkt": "2026-08-25T11:20:33Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-20",
@@ -159,7 +159,7 @@
       "thuis_code": "TWI",
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
-      "score_thuis": 1,
+      "score_thuis": 0,
       "score_uit": 0,
       "thuis_innings": [
         0,
