@@ -1,11 +1,48 @@
 {
-  "bijgewerkt": "2026-08-27T13:28:27Z",
+  "bijgewerkt": "2026-08-27T23:26:49Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-27",
     "tot": "2026-08-29"
   },
   "uitslagen": [
+    {
+      "id": 207084,
+      "datum": "2026-08-27",
+      "tijdstip": "19:30",
+      "dag": "donderdag 27 augustus",
+      "thuis": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "thuis_code": "PIO",
+      "uit": "HCAW",
+      "uit_code": "HCA",
+      "score_thuis": 10,
+      "score_uit": 11,
+      "thuis_innings": [
+        1,
+        2,
+        0,
+        1,
+        0,
+        6,
+        0,
+        0
+      ],
+      "uit_innings": [
+        3,
+        0,
+        3,
+        2,
+        0,
+        1,
+        0,
+        2
+      ],
+      "innings": 8,
+      "gamestatus": "F",
+      "locatie": "Hoofddorp",
+      "stadion": "Sportpark Pioniers",
+      "gespeeld": true
+    },
     {
       "id": 207376,
       "datum": "2026-08-29",
