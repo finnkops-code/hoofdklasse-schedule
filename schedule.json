@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-29T21:27:54Z",
+  "bijgewerkt": "2026-08-29T23:48:39Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-27",
@@ -197,44 +197,6 @@
     }
   ],
   "programma": [
-    {
-      "id": 207186,
-      "datum": "2026-08-30",
-      "tijdstip": "14:00",
-      "dag": "zondag 30 augustus",
-      "thuis": "Curaçao Neptunus",
-      "thuis_code": "NEP",
-      "uit": "Kinheim",
-      "uit_code": "KIN",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Rotterdam",
-      "stadion": "Neptunus Familiestadion",
-      "gespeeld": false
-    },
-    {
-      "id": 207187,
-      "datum": "2026-08-30",
-      "tijdstip": "14:00",
-      "dag": "zondag 30 augustus",
-      "thuis": "Amsterdam Pirates",
-      "thuis_code": "AMS",
-      "uit": "Oosterhout Twins",
-      "uit_code": "TWI",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Amsterdam",
-      "stadion": "Loek Loevendie Ballpark",
-      "gespeeld": false
-    },
     {
       "id": 207087,
       "datum": "2026-09-03",
