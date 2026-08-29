@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-29T09:53:09Z",
+  "bijgewerkt": "2026-08-29T14:52:40Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-27",
@@ -44,7 +44,42 @@
       "gespeeld": true
     },
     {
-      "id": 207376,
+      "id": 207085,
+      "datum": "2026-08-29",
+      "tijdstip": "12:00",
+      "dag": "zaterdag 29 augustus",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 11,
+      "score_uit": 10,
+      "thuis_innings": [
+        2,
+        4,
+        1,
+        0,
+        0,
+        2,
+        2
+      ],
+      "uit_innings": [
+        1,
+        2,
+        2,
+        3,
+        1,
+        1,
+        0
+      ],
+      "innings": 7,
+      "gamestatus": "F/7",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
+      "gespeeld": true
+    },
+    {
+      "id": 207180,
       "datum": "2026-08-29",
       "tijdstip": "12:00",
       "dag": "zaterdag 29 augustus",
@@ -53,7 +88,7 @@
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
       "score_thuis": 1,
-      "score_uit": 0,
+      "score_uit": 6,
       "thuis_innings": [
         0,
         0,
@@ -62,9 +97,8 @@
         0,
         0,
         0,
-        0,
-        0,
-        1
+        1,
+        0
       ],
       "uit_innings": [
         0,
@@ -73,15 +107,92 @@
         0,
         0,
         0,
+        3,
+        3,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "F/9",
+      "locatie": "Oosterhout",
+      "stadion": "Sportpark De Slotbosse Toren",
+      "gespeeld": true
+    },
+    {
+      "id": 207185,
+      "datum": "2026-08-29",
+      "tijdstip": "14:00",
+      "dag": "zaterdag 29 augustus",
+      "thuis": "Kinheim",
+      "thuis_code": "KIN",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 1,
+      "score_uit": 9,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        2,
+        0,
+        1,
+        1,
+        3,
+        2,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T9",
+      "locatie": "Haarlem",
+      "stadion": "Pim Mulier Stadion",
+      "gespeeld": true
+    },
+    {
+      "id": 207086,
+      "datum": "2026-08-29",
+      "tijdstip": "14:45",
+      "dag": "zaterdag 29 augustus",
+      "thuis": "HCAW",
+      "thuis_code": "HCA",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 8,
+      "score_uit": 7,
+      "thuis_innings": [
+        0,
+        0,
+        7,
+        1,
+        0,
         0,
         0,
         0,
         0
       ],
-      "innings": 10,
-      "gamestatus": "B10",
-      "locatie": "Oosterhout",
-      "stadion": "Sportpark De Slotbosse Toren",
+      "uit_innings": [
+        0,
+        0,
+        7,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T5",
+      "locatie": "Bussum",
+      "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
     }
   ],
