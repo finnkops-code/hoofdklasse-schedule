@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-08-29T14:52:40Z",
+  "bijgewerkt": "2026-08-29T18:06:26Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-08-27",
@@ -112,7 +112,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Oosterhout",
       "stadion": "Sportpark De Slotbosse Toren",
       "gespeeld": true
@@ -151,7 +151,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "T9",
+      "gamestatus": "F/9",
       "locatie": "Haarlem",
       "stadion": "Pim Mulier Stadion",
       "gespeeld": true
@@ -165,17 +165,17 @@
       "thuis_code": "HCA",
       "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
       "uit_code": "PIO",
-      "score_thuis": 8,
-      "score_uit": 7,
+      "score_thuis": 14,
+      "score_uit": 11,
       "thuis_innings": [
         0,
         0,
         7,
         1,
         0,
+        3,
         0,
-        0,
-        0,
+        3,
         0
       ],
       "uit_innings": [
@@ -184,13 +184,13 @@
         7,
         0,
         0,
+        2,
+        1,
         0,
-        0,
-        0,
-        0
+        1
       ],
       "innings": 9,
-      "gamestatus": "T5",
+      "gamestatus": "F/9",
       "locatie": "Bussum",
       "stadion": "Rob Hoffmann Vallei",
       "gespeeld": true
