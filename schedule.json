@@ -1,11 +1,51 @@
 {
-  "bijgewerkt": "2026-09-03T16:49:32Z",
+  "bijgewerkt": "2026-09-03T19:33:26Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-03",
     "tot": "2026-09-05"
   },
-  "uitslagen": [],
+  "uitslagen": [
+    {
+      "id": 207087,
+      "datum": "2026-09-03",
+      "tijdstip": "19:30",
+      "dag": "donderdag 3 september",
+      "thuis": "UVV",
+      "thuis_code": "UVV",
+      "uit": "Worldwide Pharma Logistics Hoofddorp Pioniers",
+      "uit_code": "PIO",
+      "score_thuis": 8,
+      "score_uit": 6,
+      "thuis_innings": [
+        0,
+        7,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "uit_innings": [
+        4,
+        0,
+        2,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "T6",
+      "locatie": "Utrecht",
+      "stadion": "Sportpark de Paperclip",
+      "gespeeld": true
+    }
+  ],
   "programma": [
     {
       "id": 207088,
