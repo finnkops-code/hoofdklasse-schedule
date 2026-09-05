@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-05T13:10:24Z",
+  "bijgewerkt": "2026-09-05T16:27:01Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-03",
@@ -87,16 +87,16 @@
       "thuis_code": "NEP",
       "uit": "Amsterdam Pirates",
       "uit_code": "AMS",
-      "score_thuis": 3,
-      "score_uit": 0,
+      "score_thuis": 6,
+      "score_uit": 5,
       "thuis_innings": [
         3,
         0,
         0,
         0,
         0,
-        0,
-        0,
+        1,
+        2,
         0,
         0
       ],
@@ -106,13 +106,13 @@
         0,
         0,
         0,
+        1,
         0,
         0,
-        0,
-        0
+        4
       ],
       "innings": 9,
-      "gamestatus": "T5",
+      "gamestatus": "F",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
@@ -126,32 +126,32 @@
       "thuis_code": "PIO",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 2,
-      "score_uit": 1,
+      "score_thuis": 13,
+      "score_uit": 13,
       "thuis_innings": [
         2,
+        3,
         0,
         0,
+        1,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        3,
+        1,
+        1
       ],
       "uit_innings": [
         1,
+        1,
         0,
         0,
+        3,
+        1,
+        2,
         0,
-        0,
-        0,
-        0,
-        0,
-        0
+        3
       ],
       "innings": 9,
-      "gamestatus": "B1",
+      "gamestatus": "T11",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
