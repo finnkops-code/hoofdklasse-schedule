@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-05T16:27:01Z",
+  "bijgewerkt": "2026-09-05T18:43:32Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-03",
@@ -126,8 +126,8 @@
       "thuis_code": "PIO",
       "uit": "UVV",
       "uit_code": "UVV",
-      "score_thuis": 13,
-      "score_uit": 13,
+      "score_thuis": 16,
+      "score_uit": 19,
       "thuis_innings": [
         2,
         3,
@@ -137,7 +137,9 @@
         0,
         3,
         1,
-        1
+        1,
+        2,
+        3
       ],
       "uit_innings": [
         1,
@@ -148,10 +150,12 @@
         1,
         2,
         0,
-        3
+        3,
+        2,
+        6
       ],
-      "innings": 9,
-      "gamestatus": "T11",
+      "innings": 11,
+      "gamestatus": "F",
       "locatie": "Hoofddorp",
       "stadion": "Sportpark Pioniers",
       "gespeeld": true
