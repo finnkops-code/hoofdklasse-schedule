@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-12T11:52:26Z",
+  "bijgewerkt": "2026-09-12T14:47:55Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-10",
@@ -43,6 +43,45 @@
       "gamestatus": "F/9",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
+      "gespeeld": true
+    },
+    {
+      "id": 207844,
+      "datum": "2026-09-12",
+      "tijdstip": "14:00",
+      "dag": "zaterdag 12 september",
+      "thuis": "Amsterdam Pirates",
+      "thuis_code": "AMS",
+      "uit": "Curaçao Neptunus",
+      "uit_code": "NEP",
+      "score_thuis": 4,
+      "score_uit": 8,
+      "thuis_innings": [
+        0,
+        0,
+        0,
+        0,
+        3,
+        0,
+        1,
+        0,
+        0
+      ],
+      "uit_innings": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        6,
+        1,
+        0
+      ],
+      "innings": 9,
+      "gamestatus": "F",
+      "locatie": "Amsterdam",
+      "stadion": "Loek Loevendie Ballpark",
       "gespeeld": true
     }
   ],
