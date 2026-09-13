@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-13T05:32:51Z",
+  "bijgewerkt": "2026-09-13T10:54:15Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-10",
@@ -40,7 +40,7 @@
         0
       ],
       "innings": 9,
-      "gamestatus": "F/9",
+      "gamestatus": "F",
       "locatie": "Rotterdam",
       "stadion": "Neptunus Familiestadion",
       "gespeeld": true
