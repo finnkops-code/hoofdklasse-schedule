@@ -1,5 +1,5 @@
 {
-  "bijgewerkt": "2026-09-18T19:21:45Z",
+  "bijgewerkt": "2026-09-18T22:08:45Z",
   "bron": "https://boxscore.stenwessel.nl/api/fetchschedule.php?competition=hb2026",
   "speelronde": {
     "van": "2026-09-17",
@@ -7,25 +7,6 @@
   },
   "uitslagen": [],
   "programma": [
-    {
-      "id": 207846,
-      "datum": "2026-09-19",
-      "tijdstip": "14:00",
-      "dag": "zaterdag 19 september",
-      "thuis": "Amsterdam Pirates",
-      "thuis_code": "AMS",
-      "uit": "Curaçao Neptunus",
-      "uit_code": "NEP",
-      "score_thuis": null,
-      "score_uit": null,
-      "thuis_innings": [],
-      "uit_innings": [],
-      "innings": null,
-      "gamestatus": "",
-      "locatie": "Amsterdam",
-      "stadion": "Loek Loevendie Ballpark",
-      "gespeeld": false
-    },
     {
       "id": 207847,
       "datum": "2026-09-20",
